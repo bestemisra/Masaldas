@@ -86,12 +86,12 @@ Bahçemde topla oynarken
 <span class="txt"></span> ormana girdiği anda meğer büyülü bir dünyanın içine girmiş. Arkasından güm diye kapanan kapının sesini duyduğunda, işte o an belki de geri dönemeyeceği yola adımını atmıştı. Kapının kapanmasıyla hemen geri açmaya çalışmıştı ama kapı açılmamıştı. Kapıyı zorlayıp anne diye bağırıyordu ama ne fayda kapı açılmıyordu ve o bağırdıkça, zorladıkça kapı yok olmaya başlamıştı. O tahta kapıdan geriye sadece kapının kolu kalmıştı. O da artık elindeydi. 
 </p>
 <p>
-<pre>
+
 Kapı kapandı arkamdan 
 Ormanda yalnızken
 Kapı kapandı ardımdan 
 Ben nerdeyken? 
-</pre>
+
 </p>
 <p>
 Ormandaydı, evet evet gerçekten ucu bucağı görünmeyen bir orman önünde duruyordu. 
@@ -122,18 +122,19 @@ Ormandaydı, evet evet gerçekten ucu bucağı görünmeyen bir orman önünde d
 <div>
 	<p>
 		<span class="txt"></span> oturdu ve oturup ağaca yaslanmasıyla uykuya dalması bir oldu. Rüyasında onun üzerine doğru gelen dozer yaşadığı mahalleye kadar geliyor, tek tek komşularının arkadaşlarının evlerini ağaçları bütün mahallenin bir araya gelip şarkılar söyleyip oyunlar oynadığı meydanı yıkıyordu. Bir tek kendi evleri o koca yığının arasında kalıyordu ve dozer evlerine doğru ilerliyordu ki yerinden sıçrayarak uyandı. Nefes nefeseydi, çok korkmuştu. Arkasından homurtuya benzeyen sesler gelmeye başladı. Yerinden sıçrayınca o koca yaşlı ağacı uyandırmıştı. Bir de ne olsun ağaç konuşmaya başlamıştı. 
-		<pre>
+	</p>
+	<p>
  “Ben 250 yaşındayım yahu, bıktım artık sizden uyandırıp durmayın beni.  Siz minikler, dünyanızda ne zaman bir sorun yaşasanız, kendinizi bu şans
   ormanında buluyorsunuz. Sonra o dört taşı bulup, sabırla yolun sonuna kadar taşıyıp evinize kavuşmak yerine kiminiz istediği bir oyuncağı almak için,
   kiminiz fazlaca şekerleme ve çikolata için o değerli taşları boş yere harcıyorsunuz. Sonra da bu ormanda kalıp ormanımızı da kirletiyorsunuz.”
-		</pre>
+		
 	</p>
 	<p><span class="txt"></span> neredeyse küçük dilini yutacaktı. Hayatında hiç görmediği kadar yaşlı bir ağaç, bir de beyaz sakalları var, bir de üstüne konuşuyor. Gözleri kocaman açılmış şaşkınlıkla ağaca bakıyordu. </p>
-	<p><pre>  “Ne oldu küçük kız, verecek bir cevabın yoksa git buradan, benim de uykumu daha fazla bölme!” </pre>diye kızdı yaşlı ağaç.</p>
+	<p>  “Ne oldu küçük kız, verecek bir cevabın yoksa git buradan, benim de uykumu daha fazla bölme!” diye kızdı yaşlı ağaç.</p>
 	<p>Ben dedi <span class="txt"></span> ve kaldı. Bu kızgın ağaca ne diyebilirdi ki, ama konuşmak zorundaydı, bu ağaç ormandan çıkış yolunu bulduran taşlardan bahsetmişti. </p>
 	<p>Sonra <span class="txt"></span> başından geçenleri yaşlı ağaca anlattı, ailesini ne kadar sevdiğini ve onlara dönmek için her şeyi yapabileceğini söyledi. Ağaçla uzunca sohbet ettiler, en sonunda yaşlı ağaç inanmış olacak ki taşların asıl amacını ve şekillerini anlattı. </p>
-	<p><pre>  “Yani anlayacağın küçük kız, yıllardır yaşamlarında bir sorun yaşayan çocuklar hep kendilerini burada buldular. Onlar için bu ormanda tam dört
-   tane taş vardır. O dört taş burada her istediklerini onlara verir, eğer biraz sabırlı olur o dört taşı da ellerinde tutabilirlerse yolun sonunda evlerine kavuşurlar.”</pre></p>
+	<p>  “Yani anlayacağın küçük kız, yıllardır yaşamlarında bir sorun yaşayan çocuklar hep kendilerini burada buldular. Onlar için bu ormanda tam dört
+   tane taş vardır. O dört taş burada her istediklerini onlara verir, eğer biraz sabırlı olur o dört taşı da ellerinde tutabilirlerse yolun sonunda evlerine kavuşurlar.”</p>
    <p><span class="txt"></span> yola devam etmeye ve taşları bulup ailesine kavuşmaya karar verdi. Yola çıkmak için adımını attığı anda o yaşlı ağaç ortadan kayboldu ve başında tam üç kuş belirdi. Kuşlar ötüşüp, uçuştukça <span class="txt"></span>’nin kıyafetleri değişti ve sırtına da bir çanta eklendi. </p>
 </div>
 <div style="padding: 20px;" class="myColor">
