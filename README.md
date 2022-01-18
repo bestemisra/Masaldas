@@ -1,5 +1,5 @@
 
-'''html
+```html
 <head >
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
 		}
 	</script>
 </head>
- #AFEEEE
+<body bgcolor=#AFEEEE>
 	<div>
 	<p>Bir varmış bir yokmuş, yok olur mu tabii ki varmış ama çok çok uzak diyarlardan birinde kocaman kalbi olan bir çocuk yaşarmış. </p></div>
 	<div style="padding: 20px;" class="myColor">
@@ -165,5 +165,4 @@ Hıımm, dedi kurt. Ne geziyorsun peki burada hava karardı. Burası ormanın te
 </p>
 
 
-
-
+</body>
