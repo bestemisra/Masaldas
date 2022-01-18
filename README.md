@@ -91,7 +91,7 @@ Bahçemde topla oynarken
 <span class="txt"></span> ormana girdiği anda meğer büyülü bir dünyanın içine girmiş. Arkasından güm diye kapanan kapının sesini duyduğunda, işte o an belki de geri dönemeyeceği yola adımını atmıştı. Kapının kapanmasıyla hemen geri açmaya çalışmıştı ama kapı açılmamıştı. Kapıyı zorlayıp anne diye bağırıyordu ama ne fayda kapı açılmıyordu ve o bağırdıkça, zorladıkça kapı yok olmaya başlamıştı. O tahta kapıdan geriye sadece kapının kolu kalmıştı. O da artık elindeydi. 
 </p>
 <p>
-<pre style="background-color:#FFFF33 ;">>
+<pre style="background-color:#FFFF33 ;">
 Kapı kapandı arkamdan 
 Ormanda yalnızken
 Kapı kapandı ardımdan 
