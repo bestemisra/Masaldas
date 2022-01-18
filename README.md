@@ -76,19 +76,24 @@
 <p >
 Bir yaz günü <span class="txt"></span>  evlerinin bahçesinde topuyla yukarı at yakala oyununu oynarken, topu hızlıca öyle yükseğe atmış ki (hooop) top sanki büyülü birinin eline geçmiş gibi yükselmiş, yükselmiş, yükselmiş ve uzaktan pat diye topun düşüşünün sesi gelmiş. <span class="txt"></span> şaşkınlıkla küçük bedenine bakıp bahçelerinden dışarıya, topun sesinin geldiği yöne bakmış ve oraya doğru gitmeye başlamış. Gittikçe evlerinden uzaklaşmış, tam topunu gördüğünde mahallenin artık sonuna geldiğini fark etmiş. Geriye doğru bakmış ev artık görünmüyormuş. Önüne doğru döndüğünde bir de ne görsün kocaman binaların olduğu, arabaların vızır vızır geçtiği koca bir şehir. Bu koca binaların oraya ne zaman yapıldığını anlayamamış, annesi ve babasıyla pikniğe giderken o yoldan geçmişler ama hiç böyle bir görüntü hatırlamıyormuş. 
 </p>
+</div>	
+<div class="greenColor">	
 <p>
-<pre class="greenColor">	
+<pre >	
 Ben böyle bir şehir görmedim
 Annemle babamla piknik yaparken
 Ben böyle bir şehir görmedim 
 Bahçemde topla oynarken 
 </pre>
+</p>
+</div>
 <p>
 İşte o sırada karşıdan vuuvuvuuu sesleriyle mahallelerine doğru gelen dozeri fark etmiş. Topunu kapıp var gücüyle evine doğru koşmaya başlamış. Nefes nefese kapıdan içeriye girmiş huuuuh demiş. Ama önünde koca bir orman onu bekliyormuş.  
 </p>
 <p>
 <span class="txt"></span> ormana girdiği anda meğer büyülü bir dünyanın içine girmiş. Arkasından güm diye kapanan kapının sesini duyduğunda, işte o an belki de geri dönemeyeceği yola adımını atmıştı. Kapının kapanmasıyla hemen geri açmaya çalışmıştı ama kapı açılmamıştı. Kapıyı zorlayıp anne diye bağırıyordu ama ne fayda kapı açılmıyordu ve o bağırdıkça, zorladıkça kapı yok olmaya başlamıştı. O tahta kapıdan geriye sadece kapının kolu kalmıştı. O da artık elindeydi. 
 </p>
+<div class="greenColor">	
 <p>
 <pre class="greenColor">
 Kapı kapandı arkamdan 
@@ -97,9 +102,12 @@ Kapı kapandı ardımdan
 Ben nerdeyken? 
 </pre>
 </p>
+</div>
+<div>
 <p>
 Ormandaydı, evet evet gerçekten ucu bucağı görünmeyen bir orman önünde duruyordu. 
 </p>
+</div>
 
 
 
