@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head >
 	<meta charset="utf-8">
@@ -26,7 +26,7 @@
 		}
 	</script>
 </head>
-<body bgcolor=#AFEEEE>
+<body #AFEEEE>
 	<div>
 	<p>Bir varmış bir yokmuş, yok olur mu tabii ki varmış ama çok çok uzak diyarlardan birinde kocaman kalbi olan bir çocuk yaşarmış. </p></div>
 	<div style="padding: 20px;" class="myColor">
