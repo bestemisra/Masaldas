@@ -101,7 +101,7 @@ Ben nerdeyken?
 Ormandaydı, evet evet gerçekten ucu bucağı görünmeyen bir orman önünde duruyordu. 
 </p>
 
-</div>
+
 
 <div style="padding: 20px;" class="myColor">
 
@@ -171,6 +171,6 @@ Ormandaydı, evet evet gerçekten ucu bucağı görünmeyen bir orman önünde d
 <p>Yine de eğer yolu bir şekilde buraya düştüyse taşlardan birinin mutlaka burada olabileceğini düşündü. O sırada karşısına kocaman bir kurt çıktı.<span class="txt"></span> kurt gördüğü için çok şaşkındı ve aynı zamanda da korkmuştu. Kurt önce etrafında dolandı, <span class="txt"></span>’nin korkudan bacakları titremeye başladı. Kurt konuştu, bakıyorum sen de korkuyorsun benden.<span class="txt"></span> korktuğunu belli etmek istemiyordu ama evet bu kurt haklıydı. Yine de dedi ki “Hayır, korkmuyorum sadece kendi yoluma gitmek istiyorum.”
 Hıımm, dedi kurt. Ne geziyorsun peki burada hava karardı. Burası ormanın tehlikeli kısmı özellikle geceleri kimse buraya gelmek istemez, bunu bilmiyor musun? <span class="txt"></span> tabii ki bilmiyordu yol onu nereye götürürse oraya doğru gitmişti. Kurt ona bu gece için yardımcı olabileceğini onun yuvasında kalabileceğini söyledi.<span class="txt"></span> tereddütte kaldı, aklına 
 </p>
-</div>
+
 
 
