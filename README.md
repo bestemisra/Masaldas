@@ -73,12 +73,12 @@
 Bir yaz günü <span class="txt"></span>  evlerinin bahçesinde topuyla yukarı at yakala oyununu oynarken, topu hızlıca öyle yükseğe atmış ki (hooop) top sanki büyülü birinin eline geçmiş gibi yükselmiş, yükselmiş, yükselmiş ve uzaktan pat diye topun düşüşünün sesi gelmiş. <span class="txt"></span> şaşkınlıkla küçük bedenine bakıp bahçelerinden dışarıya, topun sesinin geldiği yöne bakmış ve oraya doğru gitmeye başlamış. Gittikçe evlerinden uzaklaşmış, tam topunu gördüğünde mahallenin artık sonuna geldiğini fark etmiş. Geriye doğru bakmış ev artık görünmüyormuş. Önüne doğru döndüğünde bir de ne görsün kocaman binaların olduğu, arabaların vızır vızır geçtiği koca bir şehir. Bu koca binaların oraya ne zaman yapıldığını anlayamamış, annesi ve babasıyla pikniğe giderken o yoldan geçmişler ama hiç böyle bir görüntü hatırlamıyormuş. 
 </p>
 <p>
-<pre >		
+	
 Ben böyle bir şehir görmedim
 Annemle babamla piknik yaparken
 Ben böyle bir şehir görmedim 
 Bahçemde topla oynarken 
-</pre>
+
 <p>
 İşte o sırada karşıdan vuuvuvuuu sesleriyle mahallelerine doğru gelen dozeri fark etmiş. Topunu kapıp var gücüyle evine doğru koşmaya başlamış. Nefes nefese kapıdan içeriye girmiş huuuuh demiş. Ama önünde koca bir orman onu bekliyormuş.  
 </p>
