@@ -1,5 +1,4 @@
 
-```html
 <html>
 <head >
 	<meta charset="utf-8">
@@ -166,5 +165,4 @@ Hıımm, dedi kurt. Ne geziyorsun peki burada hava karardı. Burası ormanın te
 </p>
 
 
-</body>
-</html>
+
